@@ -1,0 +1,10 @@
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\bin\Debug\SporTakipProgramı.exe.config
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\bin\Debug\SporTakipProgramı.exe
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\bin\Debug\SporTakipProgramı.pdb
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\obj\Debug\SporTakipProgramı.csproj.AssemblyReference.cache
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\obj\Debug\SporTakipProgramı.Properties.Resources.resources
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\obj\Debug\SporTakipProgramı.csproj.GenerateResource.cache
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\obj\Debug\SporTakipProgramı.csproj.CoreCompileInputs.cache
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\obj\Debug\SporTakipProgramı.exe
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\obj\Debug\SporTakipProgramı.pdb
+C:\Users\Yaren\source\repos\SporTakipProgramı\SporTakipProgramı\obj\Debug\SporTakipProgramı.SporSalonuUyelikProgrami.resources
